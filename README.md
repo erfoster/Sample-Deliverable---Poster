@@ -10,3 +10,5 @@ Data comes from the [2023 World Happiness Project report](https://happiness-repo
 
 ### Approach: 
 Using summary statistics, a histogram, a scatterplot, and multivariate regression this poster demonstrates the relationship between world happiness scores and freedom to make life choices. 
+
+### You can view the poster [here](https://erfoster.github.io/Sample-Deliverable---Poster/). 
